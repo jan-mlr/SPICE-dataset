@@ -126,3 +126,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Databse
+SPICE-db.hdf5
+dipeptides.hdf5
